@@ -1,13 +1,3 @@
-Perfect 🙂 — now I will give you a **REALISTIC, practical Agent Engineer roadmap** based on:
-
-✅ your current level (backend dev + ADK + workflows)
-✅ market demand (2025 reality)
-✅ what companies actually expect (not YouTube hype).
-
-This is NOT beginner roadmap — this is **mid-level → strong AI engineer transition**.
-
----
-
 # 🚀 What is an “Agent Engineer” (real meaning)
 
 Not:
